@@ -68,7 +68,7 @@ A complete Jupyter Notebook that identifies and fixes 15 real-world data quality
    jupyter notebook data_cleaning.ipynb
    ```
 
-4. **Run all cells** (Cell → Run All) the notebook will load `dirty_dataset.xlsx`, execute all 15 cleaning tasks, and save the result as `cleaned_dataset.csv`.
+4. **Run all cells** (Cell → Run All) - the notebook will load `dirty_dataset.xlsx`, execute all 15 cleaning tasks, and save the result as `cleaned_dataset.csv`.
 
 ## Project Structure
 
